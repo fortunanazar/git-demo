@@ -2,3 +2,6 @@ bla bla bla
 song song
 standing strong
 the end
+
+Now for git gui
+two more lines were added
